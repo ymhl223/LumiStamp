@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for the export quality control modal and real-time file size estimator. Explains why Canvas Q100 produces 13MB from 6MB, and introduces a dedicated export modal with a quality slider (default 92%), quick presets (92% visual lossless, 100% maximum, 85% social light), resolution preview, and real-time accurate size estimation.",
+  "updatedAt": "2026-10-13T00:26:07.274912936Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

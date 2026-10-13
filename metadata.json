@@ -1,0 +1,6 @@
+{
+  "name": "拾光印相 LumiStamp",
+  "description": "专业照片边框与相机参数水印工作室，自动读取EXIF拍摄参数，支持丰富的相机品牌与毛玻璃模糊背景模板，支持参数手动自定义、拖拽布局调整、全分辨率无损导出与批量处理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
